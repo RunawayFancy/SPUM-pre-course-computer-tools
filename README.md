@@ -5,4 +5,6 @@
  
  The LaTex compiled file are all included in this repository. The tex file is `demo.tex`. For Matlab part, several example that I did are posted in folder `~/MATLAB`, file `demo.m`. 
  
+ A short note is shown as `note.md`.
+ 
  plz enjoy it :)
