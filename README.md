@@ -3,6 +3,6 @@
  
  ## About files
  
- The LaTex compiled file are all included in this repository. The tex file is `demo.tex `. For Matlab part, several example that I did are posted in folder `~/MATLAB`. 
+ The LaTex compiled file are all included in this repository. The tex file is `demo.tex`. For Matlab part, several example that I did are posted in folder `~/MATLAB`, file `demo.m`. 
  
  plz enjoy it :)
